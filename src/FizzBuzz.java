@@ -15,7 +15,7 @@ class FizzBuzz {
         }
     }
 
-    private static int getI(int i) {
+    public static int getI(int i) {
         // private marks this method as only usable within the class
 
         // for comments instead of #
